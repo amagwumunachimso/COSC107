@@ -1,0 +1,35 @@
+body{
+    background-image: url(./apple.img.webp);
+    font-family: 'Times New Roman', Times, serif;
+}
+.container{
+    display: flex;
+    gap: 2rem;
+    margin: 5%;
+}
+.left img{border-radius: 10px;
+}
+.right h2, strong{
+    color:white;
+    font-size: larger;
+    font-style: italic;
+}
+.right p{
+    color: white; 
+    font-size: medium;
+    font-style: italic;
+}
+.right .counter{
+    gap: 1rem;
+    display: flex;
+    margin-top: 10%;
+}
+.right .counter .box{
+    width: 100px;
+    height: 100px;
+    background-color:black;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+    text-align: center;
+} 
