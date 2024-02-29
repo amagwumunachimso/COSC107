@@ -1,5 +1,5 @@
 body{
-    background-image: url(./apple.img.webp);
+    background : url(./apple.img.webp);
     font-family: 'Times New Roman', Times, serif;
 }
 .container{
